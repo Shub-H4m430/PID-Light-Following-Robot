@@ -80,3 +80,8 @@ Every motor is slightly different. During testing, I noticed the Left Motor was 
 Correction: I set the BaseSpeed_Left to 110 and BaseSpeed_Right to 90.
 Result: This software calibration forces the robot to drive perfectly straight when no steering is applied.
 
+### 7. Project Demo Video
+Watch the robot in action here:
+you_tube : https://youtu.be/aXt4n9ajAFw
+drive : https://drive.google.com/file/d/1k0OjVAkDFK3UDRTeUGJpjkGb8aZZT6bI/view?usp=sharing
+
